@@ -3,4 +3,5 @@ public  class User{
 	private int age;
 	private String sex;
 	private String username;
+	private String a;
 }
